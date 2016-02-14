@@ -87,7 +87,7 @@ Please use this [gist](https://gist.github.com/stevemao/280ef22ee861323993a0) to
 - [conventional-commits-detector](https://github.com/stevemao/conventional-commits-detector) - Detect what commit message convention your repository is using
 - [commitizen](https://github.com/commitizen/cz-cli) - Simple commit conventions for internet citizens.
 - [angular-precommit](https://github.com/ajoslin/angular-precommit) - Pre commit with angular conventions
-
+- [conventional-changelog-lint](https://github.com/marionebl/conventional-changelog-lint) - Lint commit messages against your conventional-changelog preset
 
 ## License
 
